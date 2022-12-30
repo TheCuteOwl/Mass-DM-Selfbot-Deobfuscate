@@ -7,7 +7,7 @@
 
 * And there is not any token grabber even without deob
 <br><br>
-* <a href="https://github.com/TheAxes/massdm-selfbot">Here you can find the original repo
+* <a href="https://github.com/TheAxes/massdm-selfbot">HERE IS THE ORIGNAL REPO
 -----
 
 <p align="center"><strong><i>⚠️ Important information :</i></strong</p>
