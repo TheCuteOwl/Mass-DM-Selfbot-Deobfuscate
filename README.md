@@ -3,7 +3,10 @@
 
 
 ---
+
 * Here is a deobfuscated version of Mass-DM-Selfbot From TheAxes
+
+![alt text](https://cdn.discordapp.com/attachments/807697483635359774/1058428321823723530/image.png)
 
 * And there is not any token grabber even without deob
 <br><br>
