@@ -16,4 +16,4 @@
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
 
 * Want to support me ? Leave a star ⭐ 
-* You want to contribute or you find a issues feel free to check <br/>[issues page](https://github.com/TheCuteOwl/Satan-Stealer-Decompilator/issues)
+* You want to contribute or you find a issues feel free to check <br/>[issues page](https://github.com/TheCuteOwl/Mass-DM-Selfbot-Deobfuscate/issues)
