@@ -4,6 +4,8 @@
 
 ---
 * Here is a deobfuscated version of Mass-DM-Selfbot From TheAxes
+
+* And there is not any token grabber even without deob
 <br><br>
 * <a href="https://github.com/TheAxes/massdm-selfbot">Here you can find the original repo
 -----
